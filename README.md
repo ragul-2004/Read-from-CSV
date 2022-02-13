@@ -18,8 +18,8 @@ Display the result.
 
 ~~~
 # To write  a python program to find the inverse of a nested array.
-# Developed by : Syed Abdul Wasih H
-# Register Number : 212221240057
+# Developed by : Ragul AC
+# Register Number : 212221240042
 import numpy as np
 l1,l2=[],[]
 r=int(input())
