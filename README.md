@@ -17,8 +17,8 @@ Display the result.
 ## PROGRAM:
 ~~~
 To write a python program for reading content from a CSV file.
-Developed by: Syed Abdul Wasih H
-Register Number: 212221240057
+Developed by: Ragul AC
+Register Number: 212221240042
 import pandas as pd
 df = pd.read_csv('data.csv')
 print(df.head(10))
